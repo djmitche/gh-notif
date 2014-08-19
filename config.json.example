@@ -1,0 +1,5 @@
+{
+    "secret_key": "Flask session key",
+    "client_id": "From GitHub",
+    "client_secret": "From GitHub"
+}
